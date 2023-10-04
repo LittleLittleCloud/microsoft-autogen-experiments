@@ -1,0 +1,3 @@
+docker==6.1.3
+openai==0.28.1
+pyautogen @ git+https://github.com/LittleLittleCloud/autogen.git@489ec12d08da2a822b9229e325cbf20a62cc6020
